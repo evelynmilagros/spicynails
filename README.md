@@ -1,2 +1,2 @@
-# proyecto-6
+# proyecto-budin.github.io
 rearmado de proyecto
